@@ -13,4 +13,4 @@ Here is the link to my [report](/assets/report.pdf)!
 I also have a Google Docs [draft](https://docs.google.com/document/d/1PME6f8x0zBfJVVuurGhOzIMINYTdNP_EI2sA6ZJxXGE/edit?usp=sharing) that showcases my writing history :)
 
 ## Code
-Here is the link to my [code](https://colab.research.google.com/drive/1G0dMjHrEMR_7_76ULmB-2M5adtexPaGF?usp=sharing)
+Here is the link to my [code](https://colab.research.google.com/drive/1G0dMjHrEMR_7_76ULmB-2M5adtexPaGF?usp=sharing)!
