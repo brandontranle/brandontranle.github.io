@@ -9,10 +9,8 @@ which reached 75.32% accuracy with a single hidden layer of 2,500 neurons and a 
 
 ## Report
 
-Your report should be **delivered via your website**. Submit a link to your website on BruinLearn so that your instructor can browse it to find your report. 
-
-To make this simple, you can write the report using a word processor or Latex, then export it as a .pdf file and upload it to the `assets` directory. You can then link to it [like so](/assets/project_demo.pdf). However, you can also type the report directly onto the website using another markdown page - [here is](/project.md) a template for that.
+Here is the link to my [report](/assets/report.pdf)! 
+I also have a Google Docs [draft]([url](https://docs.google.com/document/d/1PME6f8x0zBfJVVuurGhOzIMINYTdNP_EI2sA6ZJxXGE/edit?usp=sharing)) that showcases my writing history :)
 
 ## Code
-
-A link to your code must be submitted on BruinLearn, and the course instructor must be able to download your code to mark it. The code could be in a Google Colab notebook (make sure to *share* the notebook so access is set to **Anyone with the link**), or you could upload the code into a separate GitHub repository, or you could upload the code into the `assets` directory of your website and link to it. 
+Here is the link to my [code]([url](https://colab.research.google.com/drive/1G0dMjHrEMR_7_76ULmB-2M5adtexPaGF?usp=sharing))
