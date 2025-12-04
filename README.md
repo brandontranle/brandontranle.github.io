@@ -14,3 +14,6 @@ I also have a Google Docs [draft](https://docs.google.com/document/d/1PME6f8x0zB
 
 ## Code
 Here is the link to my [code](https://colab.research.google.com/drive/1G0dMjHrEMR_7_76ULmB-2M5adtexPaGF?usp=sharing)!
+
+## Dataset
+Here is the link to my [dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv)
